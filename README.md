@@ -213,6 +213,7 @@ Choose what you find more suitable for you:
 - [IsThereAnyDeal](https://isthereanydeal.com/) - Game price comparison across stores.
 - [PCGamingWiki](https://www.pcgamingwiki.com/) - Game fixes, tweaks, and configurations.
 - [HowLongToBeat](https://howlongtobeat.com/) - Game completion time estimates.
+- [GG.deals](https://gg.deals) - Compare prices and find cheap video games.
 
 ## Community
 - [r/SteamDeck](https://reddit.com/r/SteamDeck) - Official subreddit.
